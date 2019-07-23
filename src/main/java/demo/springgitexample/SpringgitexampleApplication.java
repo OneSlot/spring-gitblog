@@ -24,6 +24,9 @@ public class SpringgitexampleApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringgitexampleApplication.class, args);
+
+        System.out.println("Hello Git!");
+
     }
 
 
